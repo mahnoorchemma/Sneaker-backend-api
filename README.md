@@ -271,7 +271,6 @@ Response:
 - MongoDB integration
 - Ready for frontend integration (React, Next.js, etc.)
 
----
 
 ## 📌 Future Improvements
 
